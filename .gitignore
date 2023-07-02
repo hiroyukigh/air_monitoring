@@ -20,6 +20,5 @@ build/
 
 # dev
 *.swo
-*.swp
 .DS_Store
 set_env_vars.sh

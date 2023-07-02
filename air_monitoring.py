@@ -1,6 +1,6 @@
 import time
 import serial
-#testcomment
+#testcommen
 
 ser = serial.Serial('/dev/serial0', 9600, timeout=1)
 
